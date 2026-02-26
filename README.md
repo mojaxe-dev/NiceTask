@@ -1,3 +1,3 @@
 # NiceTask
 
-a task app with pomodoro timer, music, and many more features all in one!
+A task app with pomodoro timer, music, and many more features all in one!
